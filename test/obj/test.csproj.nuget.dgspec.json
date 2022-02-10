@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\flow-learning\\flow\\test\\test.csproj": {}
+    "C:\\Code\\flow-learning\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Code\\flow-learning\\flow\\test\\test.csproj": {
+    "C:\\Code\\flow-learning\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\flow-learning\\flow\\test\\test.csproj",
+        "projectUniqueName": "C:\\Code\\flow-learning\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Code\\flow-learning\\flow\\test\\test.csproj",
+        "projectPath": "C:\\Code\\flow-learning\\test\\test.csproj",
         "packagesPath": "C:\\Users\\bscheffler\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\flow-learning\\flow\\test\\obj\\",
+        "outputPath": "C:\\Code\\flow-learning\\test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
